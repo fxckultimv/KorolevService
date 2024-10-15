@@ -1,0 +1,96 @@
+#localFtpConfigs - Локальные ФТП (наши сервера)
+localFtpConfigs:
+#  Название ФТП:
+#    name: "test" Имя сервера (просто для понимания)
+#    address: "xxx.xxx.xxx.xxx:xxxx" данные для подключения ip:port
+#    user: "testName" Логин к ФТП
+#    pass: "testPass" Пароль к ФТП
+  VK_SOFI:
+    name: "VK_SOFI"
+    address: "10.0.0.74:2028"
+    user: "FTPForVKSOFI"
+    pass: "xbku362zgHRF1saKddCl"
+  1C:
+    name: "1C"
+    address: "192.168.0.110:49"
+    user: "Sapport"
+    pass: "$eN0r911"
+#suppliersFtpConfigs - FTP/SFTP поставщиков
+suppliersFtpConfigs:
+#  Название ФТП:
+#    name: "Aerotur" Имя поставщика (просто для понимания)
+#    address: "xxx.xxx.xxx.xxx:xxxx" данные для подключения ip:port
+#    typeconnect: "ftp/sftp" тип FTP у поставщика (ftp/sftp)
+#    user: "testName" Логин к ФТП
+#    pass: "testPass" Пароль к ФТП
+#    savein: "path" Название папки куда сохранять файлы
+#    path:
+#      - "/path/path/" Путь где лежат файлы у поставщика | Обязательно с "/" в начале и конце пути
+  Aerotur:
+    name: "Aerotur"
+    address: "91.221.103.99:21"
+    typeconnect: "ftp"
+    user: "linair"
+    pass: "GGN5xtRdu9fBBd76M"
+    savein: "Aerotur"
+    path:
+     - "/air/ledhy3010/"
+  S7Smart:
+    name: "S7Smart"
+    address: "salesftp.s7.ru:22"
+    typeconnect: "sftp"
+    user: "1463"
+    pass: "jHp61djM7aCupMDr"
+    savein: "S7Smart"
+    path:
+     - "/00712865/AIR/"
+     - "/42104941/AIR/"
+     - "/42108312/AIR/"
+     - "/42132156/AIR/"
+     - "/42134982/AIR/"
+     - "/42142262/AIR/"
+     - "/42156133/AIR/"
+     - "/42158642/AIR/"
+     - "/42163365/AIR/"
+     - "/42170251/AIR/"
+     - "/42175571/AIR/"
+     - "/42183665/AIR/"
+     - "/42185032/AIR/"
+     - "/99504947/AIR/"
+     - "/99508317/AIR/"
+     - "/99514087/AIR/"
+     - "/99517027/AIR/"
+     - "/99532157/AIR/"
+     - "/99534987/AIR/"
+     - "/99542267/AIR/"
+     - "/99556617/AIR/"
+     - "/99558647/AIR/"
+     - "/99563367/AIR/"
+     - "/99570257/AIR/"
+     - "/99572567/AIR/"
+     - "/99575577/AIR/"
+     - "/99576287/AIR/"
+     - "/99577287/AIR/"
+     - "/99583667/AIR/"
+     - "/99585037/AIR/"
+     - "/99590697/AIR/"
+
+  VipServiceAmadeus:
+    name: "VipServiceAmadeus"
+    address: "ftp-slip.vipservice.ru:21"
+    typeconnect: "ftp"
+    user: "ftpbpolga"
+    pass: "NJ352DcFSX"
+    savein: "VipServiceAmadeus"
+    path:
+     - "/BP_OLGA/"
+
+  VipServicePortbilet:
+    name: "VipServicePortbilet"
+    address: "ftp-slip.vipservice.ru:21"
+    typeconnect: "ftp"
+    user: "ftpbpolga"
+    pass: "NJ352DcFSX"
+    savein: "VipServicePortbilet"
+    path:
+     - "/BP_OLGA/PRTB/"
