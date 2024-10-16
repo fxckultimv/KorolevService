@@ -190,4 +190,4 @@ api.add_resource(CopyFile, "/api/copy/<string:num_str>")
 api.init_app(app)
 
 if __name__ == "__main__":
-    app.run(debug=False, port=959, host="0.0.0.0")
+    app.run(debug=False, port=970, host="0.0.0.0")

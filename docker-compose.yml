@@ -1,27 +1,34 @@
 version: '3'
 
 services:
-  external_tickets_api:
+  demskiy-service:
     build: ./DemskiyService
     ports:
-      - "959:959"
+      - "970:970"
     volumes:
       - ./logs:/app/logs
       - ./data:/app/data
       - ./DemskiyService:/app/DemskiyService
+      - //c/FTP/Archive/OLTC_02aka_ppr02:/app/directories/OLTC_02aka_ppr02
+      - //c/FTP/Archive/OLTC_02aka_ppr05:/app/directories/OLTC_02aka_ppr05
+      - //c/FTP/Archive/OLTC_13spt_ppr08:/app/directories/OLTC_13spt_ppr08
+      - //c/FTP/Archive/OLTC_27moa_ppr34:/app/directories/OLTC_27moa_ppr34
+      - //c/FTP/Archive/OLTC_52msa_ppr01:/app/directories/OLTC_52msa_ppr01
+      - //c/FTP/Archive/OLTC_52msa_ppr02:/app/directories/OLTC_52msa_ppr02
+      - //c/FTP/Archive/OLTC_52msa_ppr03:/app/directories/OLTC_52msa_ppr03
+      - //c/FTP/Archive/OLTC_52msa_ppr04:/app/directories/OLTC_52msa_ppr04
+      - //c/FTP/Archive/OLTC_52msa_ppr05:/app/directories/OLTC_52msa_ppr05
+      - //c/FTP/Archive/OLTC_52msa_ppr06:/app/directories/OLTC_52msa_ppr06
+      - //c/FTP/Archive/OLTC_52msa_ppr07:/app/directories/OLTC_52msa_ppr07
+      - //c/FTP/Archive/OLTC_52msa_ppr08:/app/directories/OLTC_52msa_ppr08
+      - //c/FTP/Archive/OLTC_52msa_ppr09:/app/directories/OLTC_52msa_ppr09
+      - //c/FTP/Archive/OLTC_52msa_ppr10:/app/directories/OLTC_52msa_ppr10
+    restart: always
+
+  korolev-service:
+    build: ./KorolevService
+    volumes:
+      - ./logs:/app/logs
+      - ./data:/app/data
       - ./KorolevService:/app/KorolevService
-      - C:\FTP\Archive\OLTC_02aka_ppr02:/app/directories/OLTC_02aka_ppr02
-      - C:\FTP\Archive\OLTC_02aka_ppr05:/app/directories/OLTC_02aka_ppr05
-      - C:\FTP\Archive\OLTC_13spt_ppr08:/app/directories/OLTC_13spt_ppr08
-      - C:\FTP\Archive\OLTC_27moa_ppr34:/app/directories/OLTC_27moa_ppr34
-      - C:\FTP\Archive\OLTC_52msa_ppr01:/app/directories/OLTC_52msa_ppr01
-      - C:\FTP\Archive\OLTC_52msa_ppr02:/app/directories/OLTC_52msa_ppr02
-      - C:\FTP\Archive\OLTC_52msa_ppr03:/app/directories/OLTC_52msa_ppr03
-      - C:\FTP\Archive\OLTC_52msa_ppr04:/app/directories/OLTC_52msa_ppr04
-      - C:\FTP\Archive\OLTC_52msa_ppr05:/app/directories/OLTC_52msa_ppr05
-      - C:\FTP\Archive\OLTC_52msa_ppr06:/app/directories/OLTC_52msa_ppr06
-      - C:\FTP\Archive\OLTC_52msa_ppr07:/app/directories/OLTC_52msa_ppr07
-      - C:\FTP\Archive\OLTC_52msa_ppr08:/app/directories/OLTC_52msa_ppr08
-      - C:\FTP\Archive\OLTC_52msa_ppr09:/app/directories/OLTC_52msa_ppr09
-      - C:\FTP\Archive\OLTC_52msa_ppr10:/app/directories/OLTC_52msa_ppr10
     restart: always

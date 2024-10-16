@@ -1,0 +1,456 @@
+2024/10/16 12:42:28 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:42:28 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:42:39 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:42:52 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:43:03 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:43:16 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:43:27 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:43:39 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:43:51 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:44:04 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:44:16 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:44:28 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: Aerotur на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Aerotur: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: LocalUser\LinerAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerAmadeus: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: LocalUser\LinerB2BB на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerB2BB: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: LocalUser\LinerSSOD на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\LinerSSOD: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: LocalUser\MyAgent на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\MyAgent: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_02aka_ppr02 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr02: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_02aka_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_02aka_ppr05: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_27moa_ppr34 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_27moa_ppr34: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_52msa_ppr01 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_52msa_ppr01: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_71mos_ppr25 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_71mos_ppr25: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_87mov_ppr05 на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_87mov_ppr05: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_agn_02mok_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_02mok_main: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_agn_05msv_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_05msv_main: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: OLTC_agn_u6173_main на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\OLTC_agn_u6173_main: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: S7Smart на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\S7Smart: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: Sabre на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\Sabre: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: LocalUser\TTBooking на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\LocalUser\TTBooking: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: VipServiceAmadeus на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServiceAmadeus: no such file or directory
+2024/10/16 12:44:39 Ошибка при сканирование папки: VipServicePortbilet на наличие файлов.
+Ошибка: open C:\FTP\FTPForTickets\VipServicePortbilet: no such file or directory
