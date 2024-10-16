@@ -8,5 +8,5 @@ services:
   external_tickets_api:
     build: ./DemskiyService
     ports:
-      - "5000:5000"
+      - "959:959"
     restart: always
