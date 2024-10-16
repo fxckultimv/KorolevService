@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  korolev_service:
+    build: ./KorolevService
+    restart: always
+
+  external_tickets_api:
+    build: ./DemskiyService
+    ports:
+      - "5000:5000"
+    restart: always
